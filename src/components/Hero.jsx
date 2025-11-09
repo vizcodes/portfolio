@@ -15,9 +15,9 @@ const Hero = () => {
                     </div>
                 </div>
                 <div className="max-w-md">
-                    <h1 className="text-3xl sm:text-5xl font-bold">Hi, I'm Viswanath Somasundaram </h1>
+                    <h1 className="text-3xl sm:text-5xl font-bold">Hi, I'm Viswanath R Somasundaram </h1>
                     <p className="py-6 text-base sm:text-lg">
-                        Data Science at Mathco | Consulting | AI at Purdue
+                        Data Science at Mathco | AI at Purdue
                     </p>
                 </div>
                 <div className="socials flex justify-center mt-1">
